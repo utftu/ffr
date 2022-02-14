@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  mobx: ^6.3.13
+
+devDependencies:
+  mobx: 6.3.13
+
+packages:
+
+  /mobx/6.3.13:
+    resolution: {integrity: sha512-zDDKDhYUk9QCHQUdLG+wb4Jv/nXutSLt/P8kkwHyjdbrJO4OZS6QTEsrOnrKM39puqXSrJZHdB6+yRys2NBFFA==}
+    dev: true
